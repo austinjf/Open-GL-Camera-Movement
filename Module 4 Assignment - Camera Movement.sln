@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module 4 Assignment - Camera Movement", "Module 4 Assignment - Camera Movement\Module 4 Assignment - Camera Movement.vcxproj", "{DD4C90DC-15DB-41AA-99A8-92A40A6A06AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4C90DC-15DB-41AA-99A8-92A40A6A06AF}.Debug|x64.ActiveCfg = Debug|x64
+		{DD4C90DC-15DB-41AA-99A8-92A40A6A06AF}.Debug|x64.Build.0 = Debug|x64
+		{DD4C90DC-15DB-41AA-99A8-92A40A6A06AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD4C90DC-15DB-41AA-99A8-92A40A6A06AF}.Debug|x86.Build.0 = Debug|Win32
+		{DD4C90DC-15DB-41AA-99A8-92A40A6A06AF}.Release|x64.ActiveCfg = Release|x64
+		{DD4C90DC-15DB-41AA-99A8-92A40A6A06AF}.Release|x64.Build.0 = Release|x64
+		{DD4C90DC-15DB-41AA-99A8-92A40A6A06AF}.Release|x86.ActiveCfg = Release|Win32
+		{DD4C90DC-15DB-41AA-99A8-92A40A6A06AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8120B2D-D28F-4E10-9802-8AAB7F06C92B}
+	EndGlobalSection
+EndGlobal
